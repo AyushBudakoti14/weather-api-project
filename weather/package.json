@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "npm --prefix frontend run dev"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
